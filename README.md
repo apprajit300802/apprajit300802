@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Apprajit Vaibhav
 - 👀 I’m interested in ... Coding, Biking , Travelling and Sports
 - 🌱 I’m currently Persuing Bachelors in Computer Science and Engineering
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... apprajitvaibhav2@gmail.com
 
 <!---
